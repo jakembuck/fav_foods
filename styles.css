@@ -1,3 +1,24 @@
+body {
+    background-color: yellow;
+}
+
 h1 {
-    color: blue
+    color: blue;
+    display: flex;
+    justify-content: center;
+
+}
+h2 {
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+ol {
+    color: limegreen;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
